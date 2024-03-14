@@ -1,0 +1,15 @@
+.desc{
+    font-size: 30px;
+}
+.Img{
+    height: 450px;
+    width: auto;
+}
+.Headercard{
+    height: 50px;
+    background-color: aqua;
+    
+}
+body{
+    background-color: rgb(163, 214, 214);
+}
