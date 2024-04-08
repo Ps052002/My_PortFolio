@@ -31,6 +31,11 @@ export default function Navbar() {
                 </Link>
               </li>
               <li class="nav-item">
+                <Link class="nav-link active"  to="/Skills">
+                  Skills
+                </Link>
+              </li>
+              <li class="nav-item">
                 <Link class="nav-link active" to="/Projects">
                   Projects
                 </Link>
