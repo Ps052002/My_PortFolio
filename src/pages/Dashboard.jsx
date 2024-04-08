@@ -12,8 +12,7 @@ export default function Dashboard() {
       
       <Desc/>
       <Qualifications/>
-      <Skills/>
-      <Projects/>
+      
     </div>
 
     </div>        
