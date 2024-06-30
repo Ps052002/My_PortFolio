@@ -153,7 +153,7 @@ export default function Projects() {
                       <div className="card">Javascript</div>
                     </center>
                   </div>
-                  
+
                   <div className="col">
                     <center>
                       <div className="card">ReactJS</div>
@@ -163,7 +163,7 @@ export default function Projects() {
               </div>
             </div>
           </div>
-          
+
           <div className="col px-2">
             <div className="card bg-body-secondary">
               <div className="card-body">
@@ -172,24 +172,24 @@ export default function Projects() {
                     className="col"
                     style={{ display: "flex", justifyContent: "flex-start" }}
                   >
-                    <a href=" https://github.com/Ps052002/Weather-Website">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      width="25"
-                      height="25"
-                      fill="#FFD700"
-                      class="bi bi-folder-fill"
-                      viewBox="0 0 25 25 "
-                    >
-                      <path d="M9.828 3h3.982a2 2 0 0 1 1.992 2.181l-.637 7A2 2 0 0 1 13.174 14H2.825a2 2 0 0 1-1.991-1.819l-.637-7a2 2 0 0 1 .342-1.31L.5 3a2 2 0 0 1 2-2h3.672a2 2 0 0 1 1.414.586l.828.828A2 2 0 0 0 9.828 3m-8.322.12q.322-.119.684-.12h5.396l-.707-.707A1 1 0 0 0 6.172 2H2.5a1 1 0 0 0-1 .981z" />
-                    </svg>
+                    <a href=" https://github.com/Ps052002/Healthcare">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="25"
+                        height="25"
+                        fill="#FFD700"
+                        class="bi bi-folder-fill"
+                        viewBox="0 0 25 25 "
+                      >
+                        <path d="M9.828 3h3.982a2 2 0 0 1 1.992 2.181l-.637 7A2 2 0 0 1 13.174 14H2.825a2 2 0 0 1-1.991-1.819l-.637-7a2 2 0 0 1 .342-1.31L.5 3a2 2 0 0 1 2-2h3.672a2 2 0 0 1 1.414.586l.828.828A2 2 0 0 0 9.828 3m-8.322.12q.322-.119.684-.12h5.396l-.707-.707A1 1 0 0 0 6.172 2H2.5a1 1 0 0 0-1 .981z" />
+                      </svg>
                     </a>
                   </div>
                   <div
                     className="col"
                     style={{ display: "flex", justifyContent: "flex-end" }}
                   >
-                    <a href=" https://github.com/Ps052002/Weather-Website">
+                    <a href=" https://github.com/Ps052002/Healthcare">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="25"
@@ -204,12 +204,14 @@ export default function Projects() {
                   </div>
                 </div>
                 <div className="card-title">
-                  <h3>Weather Website</h3>
+                  <h3>Healthcare </h3>
                 </div>
                 <p style={{ display: "flex ", height: "200px" }}>
-                  Mini Project Weather Website This is a mini project created
-                  using only Html CSS and JS. You can view current Weather
-                  Condions of a city Using this website.
+                  This project involves developing a
+                  web application that provides various healthcare-related
+                  functionalities, such as medicine details, medicine selling,symptoms checking
+                  and disease checking, appointment
+                  scheduling.
                 </p>
 
                 <div className="row">
@@ -230,6 +232,18 @@ export default function Projects() {
                       <div className="card">Javascript</div>
                     </center>
                   </div>
+                  <div className="col">
+                    <center>
+                      <div className="card">ReactJS</div>
+                    </center>
+                  </div>
+                  <div className="col">
+                    <center>
+                      <div className="card">NodeJS</div>
+                    </center>
+                  </div>
+                  
+                  
                 </div>
               </div>
             </div>
@@ -242,7 +256,7 @@ export default function Projects() {
                     className="col"
                     style={{ display: "flex", justifyContent: "flex-start" }}
                   >
-                    <a href="https://github.com/Ps052002/To-Do-List">
+                    <a href="https://github.com/Ps052002/Netflix">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="25"
@@ -259,7 +273,7 @@ export default function Projects() {
                     className="col"
                     style={{ display: "flex", justifyContent: "flex-end" }}
                   >
-                    <a href="https://github.com/Ps052002/To-Do-List">
+                    <a href="https://github.com/Ps052002/Netflix">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="25"
@@ -274,13 +288,13 @@ export default function Projects() {
                   </div>
                 </div>
                 <div className="card-title ">
-                  <h3>To-Do List</h3>
+                  <h3>Netflix-Clone </h3>
                 </div>
                 <p style={{ display: "flex ", height: "200px" }}>
-                  The React Todo List project aims to create a simple yet
-                  functional todo list application using React.js. The
-                  application allows users to add tasks. It provides a clean
-                  user interface for managing tasks efficiently.
+                  This project involves building a web
+                  application that includes video streaming and mimics some of the key features of Netflix,
+                  such as browsing and viewing movies ,Web Series and TV shows,
+                  viewing details about them, and playing videos.
                 </p>
 
                 <div className="row">
@@ -301,13 +315,19 @@ export default function Projects() {
                       <div className="card">Javascript</div>
                     </center>
                   </div>
-                  
+
                   <div className="col">
                     <center>
                       {" "}
                       <div className="card">ReactJs</div>
                     </center>
                   </div>
+                  <div className="col">
+                    <center>
+                      <div className="card">NodeJS</div>
+                    </center>
+                  </div>
+                  
                 </div>
               </div>
             </div>
